@@ -1,0 +1,31 @@
+_repo: Stories-of-Achievement-Volume-III-Orators-and-Reformers_18597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+description: ''
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcsh 'Biography'
+- !lcc 'CT'
+tableOfContents: The Orator Who Stammered, Demosthenes -- "The Learned Blacksmith",
+  Burritt -- The Conquest of a Bad Habit, Gough -- The Slave Who Stole Freedom, Douglas
+  -- The Boy Who Half-heartedly Joined the Church, Beecher -- The Boy Who Slept Under
+  the Sidewalk, Washington -- The Man Who Fights the Beast, Lindsey.
+title: Stories of Achievement, Volume III, Orators and Reformers
+url: http://www.gutenberg.org/ebooks/18597
